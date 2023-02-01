@@ -1,0 +1,2 @@
+# Artificial_Intelligence_5026CEM
+Artificial Intelligence coursework
